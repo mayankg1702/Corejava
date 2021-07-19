@@ -14,7 +14,7 @@ public class Hashmaps {
 		hm.put(2, "iam");
 		hm.put(3, "best");
 		hm.put(4, "boy");
-          hm.get(4);
+        System.out.println(hm.get(4));
 		
 	}
 
